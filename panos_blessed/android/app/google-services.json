@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783185538130",
+    "firebase_url": "https://panos-blessed.firebaseio.com",
+    "project_id": "panos-blessed",
+    "storage_bucket": "panos-blessed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783185538130:android:7781dd296d5e58d3a7c38b",
+        "android_client_info": {
+          "package_name": "xalodev.panos_blessed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783185538130-hvug60t5g9rmkl6i0e1ps6ebcbbt1nt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaO6smzh-HnSuk63NKjQRyd-99PrK68k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783185538130-hvug60t5g9rmkl6i0e1ps6ebcbbt1nt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
